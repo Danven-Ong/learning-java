@@ -1,4 +1,4 @@
-package DataTypes;
+package _01.DataTypes;
 
 public class PrimitiveTypes {
     public static void main(String[] args) {
