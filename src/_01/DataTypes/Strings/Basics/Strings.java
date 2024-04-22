@@ -1,4 +1,4 @@
-package _01.DataTypes;
+package _01.DataTypes.Strings;
 
 public class Strings {
     public static void main(String[] args) {
